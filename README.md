@@ -3,7 +3,7 @@
 
 ## Description
 
-** Servlet ile ORM kullandığım basit crud işlemleri gerçekleştiren bir denemedir. ORM çözümü olarak JPA, implementation olarak EclipseLink kullanılmıştır.Employee ve Department olarak iki adet tablo vardır. Aralarında Mant-to-One bir ilişki bulunmaktadır. Department tablosu dolduktan sonra Department ile Employee tablosu doldurulmalıdır.
+**Servlet ile ORM kullandığım basit crud işlemleri gerçekleştiren bir denemedir. ORM çözümü olarak JPA, implementation olarak EclipseLink kullanılmıştır.Employee ve Department olarak iki adet tablo vardır. Aralarında Mant-to-One bir ilişki bulunmaktadır. Department tablosu dolduktan sonra Department ile Employee tablosu doldurulmalıdır.**
 
 ![image](https://user-images.githubusercontent.com/41667882/127160119-099b8f63-6892-45b2-bda4-55047881cd77.png)
 ![image](https://user-images.githubusercontent.com/41667882/127159722-bab0b60a-e50d-4571-a22f-cde11630d42c.png)
