@@ -1,5 +1,5 @@
 # JPA-ECLIPSELINK-SERVLET-CRUD
- Proje Examples
+ Project Examples
 
 ## Description
 
